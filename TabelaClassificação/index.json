@@ -1,0 +1,261 @@
+{
+  "Rodadas":{
+  	"type": "number",
+  	"label": "Quantidade de Rodadas",
+    "value": 0,
+    "group": "CAMPEONATO 4x4",
+    "min": 0,
+    "step": 1
+  },
+  "fontSize":{
+  	"type": "number",
+  	"label": "Tamanho da Font",
+    "value": 1,
+    "group": "CAMPEONATO 4x4",
+    "min": 1,
+    "max": 100,
+    "step": 5
+  },
+  "times":{
+  	"type": "number",
+  	"label": "Quantidade de Times no Camp",
+    "value": 0,
+    "group": "CAMPEONATO 4x4",
+    "min": 1,
+    "max": 100,
+    "step": 1
+  },
+  "font2size":{
+  	"type": "number",
+  	"label": "Tamanho Font",
+    "value": 5,
+    "group": "CAMPEONATO 4x4",
+    "min": 1,
+    "max": 100,
+    "step": 1
+  },
+  "nome1": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "none",
+    "group": "TIME 1"
+  },
+  "vitorias1": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 1",
+    "min": 0,
+    "step": 1
+  },
+  "derrotas1": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 1",
+    "min": 0,
+    "step": 1
+  },
+  "Rv1": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 1",
+    "min": 0,
+    "step": 1
+  },
+  "Rp1": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 1",
+    "min": 0,
+    "step": 1
+  },
+   "nome2": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "time2",
+    "group": "TIME 2"
+  },
+  "vitorias2": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 2",
+    "min": 0,
+    "step": 1
+  },
+  "derrotas2": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 2",
+    "min": 0,
+    "step": 1
+  },
+  "Rv2": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 2",
+    "min": 0,
+    "step": 1
+  },
+  "Rp2": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 2",
+    "min": 0,
+    "step": 1
+  }, "nome3": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "none",
+    "group": "TIME 3"
+  },
+  "vitorias3": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 3",
+    "min": 0,
+    "step": 3
+  },
+  "derrotas3": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 3",
+    "min": 0,
+    "step": 3
+  },
+  "Rv3": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 3",
+    "min": 0,
+    "step": 3
+  },
+  "Rp3": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 3",
+    "min": 0,
+    "step": 3
+  }, "nome4": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "none",
+    "group": "TIME 4"
+  },
+  "vitorias4": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 4",
+    "min": 0,
+    "step": 4
+  },
+  "derrotas4": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 4",
+    "min": 0,
+    "step": 4
+  },
+  "Rv4": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 4",
+    "min": 0,
+    "step": 4
+  },
+  "Rp4": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 4",
+    "min": 0,
+    "step": 4
+  }, "nome5": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "none",
+    "group": "TIME 5"
+  },
+  "vitorias5": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 5",
+    "min": 0,
+    "step": 5
+  },
+  "derrotas5": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 5",
+    "min": 0,
+    "step": 5
+  },
+  "Rv5": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 5",
+    "min": 0,
+    "step": 5
+  },
+  "Rp5": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 5",
+    "min": 0,
+    "step": 5
+  }, "nome6": {
+    "type": "text",
+    "label": "Nome do Time",
+    "value": "none",
+    "group": "TIME 6"
+  },
+  "vitorias6": {
+    "type": "number",
+    "label": "Quantidade Vitorias",
+    "value": 0,
+    "group": "TIME 6",
+    "min": 0,
+    "step": 6
+  },
+  "derrotas6": {
+    "type": "number",
+    "label": "Quantidade Derrotas",
+    "value": 0,
+    "group": "TIME 6",
+    "min": 0,
+    "step": 6
+  },
+  "Rv6": {
+    "type": "number",
+    "label": "Quantidade de Rounds Vencidos",
+    "value": 0,
+    "group": "TIME 6",
+    "min": 0,
+    "step": 6
+  },
+  "Rp6": {
+    "type": "number",
+    "label": "Quantidade de Rounds Perdidos",
+    "value": 0,
+    "group": "TIME 6",
+    "min": 0,
+    "step": 6
+  }
+}
