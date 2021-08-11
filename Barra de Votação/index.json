@@ -1,0 +1,26 @@
+{
+  "managePermissions": {
+    "type": "dropdown",
+    "label": "Who can start video:",
+    "value": "everyone",
+    "options": {
+      "streamer": "Streamer",
+      "mods": "Streamer + Mods",
+      "vips": "Streamer + Mods + Vips",
+      "everyone": "No restrictions"
+    },
+	"group":"Global settings"	
+  },
+  "opcao1": {
+    "type": "text",
+    "label": "Opção 1",
+    "value": "1",
+	"group":"Global settings"
+  },
+  "opcao2": {
+    "type": "text",
+    "label": "Opção 2",
+    "value": "2",
+	"group":"Global settings"
+  }
+} 
