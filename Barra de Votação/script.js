@@ -73,5 +73,5 @@ var id = setInterval(frame, 10);
      }else{ blue.style.visibility = 'visible';}
    }
 
-//tse
+//
 
